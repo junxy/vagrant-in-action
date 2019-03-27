@@ -16,13 +16,13 @@ brew cask install vagrant
 TODO:
 
 - [x] vagrant base
-  - [x] single machine
-  - [x] Multi-Machine
+  - [x] [single machine](vagrant-single-vm/)
+  - [x] [Multi-Machine](vagrant-multi-vm/)
 - [x] vagrant Provisioning
   - [x] File
   - [x] Shell
   - [x] Ansible
-    - [x] single machine
+    - [x] [single machine](vagrant-single-vm-with-ansible/)
     - [ ] Multi-Machine
   - [ ] Docker
 - [ ] Networking
