@@ -23,7 +23,7 @@ TODO:
   - [x] Shell
   - [x] Ansible
     - [x] [single machine](vagrant-single-vm-with-ansible/)
-    - [ ] Multi-Machine
+    - [x] [Multi-Machine](vagrant-multi-vm-with-ansible/)
   - [ ] Docker
 - [ ] Networking
   - [ ] ...
