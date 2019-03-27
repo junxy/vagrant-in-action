@@ -10,6 +10,9 @@ ls -al /tmp/vagrant/asserts
 cp -v /etc/apt/sources.list /etc/apt/sources.list.bak
 cp -v /tmp/vagrant/asserts/163.sources.list /etc/apt/sources.list
 
+# install package
 apt-get update
-apt-get install -y nginx
+apt-get install -y python-minimal
+# apt-get install -y python3
+# apt-get install -y nginx
 # apt-get install -y apache2
