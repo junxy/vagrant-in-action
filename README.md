@@ -26,7 +26,8 @@ TODO:
     - [x] [Multi-Machine](vagrant-multi-vm-with-ansible/)
   - [ ] Docker
 - [ ] Networking
-  - [ ] ...
+  - [x] [Private Network](vagrant-multi-vm-with-ansible-network/)
+  - [x] [Public Network](vagrant-multi-vm-with-ansible-network/)
 - [ ] vagrant Providers
   - [ ] Docker
 - [ ] Vagrant Share

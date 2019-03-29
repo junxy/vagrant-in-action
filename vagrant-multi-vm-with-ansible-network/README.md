@@ -1,8 +1,16 @@
-# single vm
+# network
+
+```ruby
+
+$subnet = "172.17.9"
+
+ip = "#{$subnet}.#{i+100}"
+node.vm.network "private_network", ip: ip
+
+```
+
 
 ```bash
-$ vagrant init
-
 
 # 手动执行
 $ ANSIBLE_HOST_KEY_CHECKING=False \
