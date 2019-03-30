@@ -38,3 +38,8 @@ TODO:
   - [ ] ...
 - [ ] Triggers
   - [ ] ...
+
+
+Refs:
+
+- https://github.com/iJackUA/awesome-vagrant
